@@ -1,0 +1,245 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LeftSidebar /> Renders the main view 1`] = `
+<div>
+  <div
+    class="sc-bdnylx dTFoCh"
+  >
+    
+    <h2
+      class="sc-gtssRu eiVMXJ"
+    >
+      Filter
+    </h2>
+    <div
+      class="sc-hKFyIo cXtavt"
+    >
+      <h3
+        class="sc-dlnjPT gPWkfX"
+      >
+        Launch Year
+      </h3>
+      <ul
+        class="sc-eCApGN MJYeW"
+      >
+        <li
+          class="sc-jSFkmK jNSORn"
+        >
+          <a
+            class=""
+            href="/?launch_year=2006"
+          >
+            2006
+          </a>
+        </li>
+        <li
+          class="sc-jSFkmK jNSORn"
+        >
+          <a
+            class=""
+            href="/?launch_year=2007"
+          >
+            2007
+          </a>
+        </li>
+        <li
+          class="sc-jSFkmK jNSORn"
+        >
+          <a
+            class=""
+            href="/?launch_year=2008"
+          >
+            2008
+          </a>
+        </li>
+        <li
+          class="sc-jSFkmK jNSORn"
+        >
+          <a
+            class=""
+            href="/?launch_year=2009"
+          >
+            2009
+          </a>
+        </li>
+        <li
+          class="sc-jSFkmK jNSORn"
+        >
+          <a
+            class=""
+            href="/?launch_year=2010"
+          >
+            2010
+          </a>
+        </li>
+        <li
+          class="sc-jSFkmK jNSORn"
+        >
+          <a
+            class=""
+            href="/?launch_year=2011"
+          >
+            2011
+          </a>
+        </li>
+        <li
+          class="sc-jSFkmK jNSORn"
+        >
+          <a
+            class=""
+            href="/?launch_year=2012"
+          >
+            2012
+          </a>
+        </li>
+        <li
+          class="sc-jSFkmK jNSORn"
+        >
+          <a
+            class=""
+            href="/?launch_year=2013"
+          >
+            2013
+          </a>
+        </li>
+        <li
+          class="sc-jSFkmK jNSORn"
+        >
+          <a
+            class=""
+            href="/?launch_year=2014"
+          >
+            2014
+          </a>
+        </li>
+        <li
+          class="sc-jSFkmK jNSORn"
+        >
+          <a
+            class=""
+            href="/?launch_year=2015"
+          >
+            2015
+          </a>
+        </li>
+        <li
+          class="sc-jSFkmK jNSORn"
+        >
+          <a
+            class=""
+            href="/?launch_year=2016"
+          >
+            2016
+          </a>
+        </li>
+        <li
+          class="sc-jSFkmK jNSORn"
+        >
+          <a
+            class=""
+            href="/?launch_year=2017"
+          >
+            2017
+          </a>
+        </li>
+        <li
+          class="sc-jSFkmK jNSORn"
+        >
+          <a
+            class=""
+            href="/?launch_year=2018"
+          >
+            2018
+          </a>
+        </li>
+        <li
+          class="sc-jSFkmK jNSORn"
+        >
+          <a
+            class=""
+            href="/?launch_year=2019"
+          >
+            2019
+          </a>
+        </li>
+        <li
+          class="sc-jSFkmK jNSORn"
+        >
+          <a
+            class=""
+            href="/?launch_year=2020"
+          >
+            2020
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div
+      class="sc-hKFyIo cXtavt"
+    >
+      <h3
+        class="sc-dlnjPT gPWkfX"
+      >
+        Successful Launch
+      </h3>
+      <ul
+        class="sc-eCApGN MJYeW"
+      >
+        <li
+          class="sc-jSFkmK jNSORn"
+        >
+          <a
+            class=""
+            href="/?launch_success=true"
+          >
+            True
+          </a>
+        </li>
+        <li
+          class="sc-jSFkmK jNSORn"
+        >
+          <a
+            class=""
+            href="/?launch_success=false"
+          >
+            False
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div
+      class="sc-hKFyIo cXtavt"
+    >
+      <h3
+        class="sc-dlnjPT gPWkfX"
+      >
+        Successful Landing
+      </h3>
+      <ul
+        class="sc-eCApGN MJYeW"
+      >
+        <li
+          class="sc-jSFkmK jNSORn"
+        >
+          <a
+            class=""
+            href="/?land_success=true"
+          >
+            True
+          </a>
+        </li>
+        <li
+          class="sc-jSFkmK jNSORn"
+        >
+          <a
+            class=""
+            href="/?land_success=false"
+          >
+            False
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+`;

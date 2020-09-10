@@ -1,0 +1,166 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MainContent /> Renders the main view 1`] = `
+<div>
+  <div
+    class="sc-bdnylx dCOlis"
+  >
+    <div
+      class="row"
+    />
+  </div>
+</div>
+`;
+
+exports[`<MainContent /> Renders the main view 2`] = `
+<div>
+  <div
+    class="sc-bdnylx dCOlis"
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="col-md-4 col-sm-6"
+      >
+        <div
+          class="sc-gtssRu fuoigp"
+        >
+          <div
+            class="sc-dlnjPT jxzbmt"
+          >
+            <img
+              class=""
+              src="https://images2.imgbox.com/3c/0e/T8iJcSN3_o.png"
+            />
+          </div>
+          <h3
+            class="sc-hKFyIo YcUxI"
+          >
+            FalconSat #1
+          </h3>
+          <b>
+            Launch Year: 
+          </b>
+           
+          2006
+          <br />
+          <b>
+            Successful Launch: 
+          </b>
+           
+          <br />
+          <b>
+            Successful Landing: 
+          </b>
+           
+          data not in api
+          <br />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<MainContent /> Selectors test by mock store 1`] = `
+<div>
+  <div
+    class="sc-bdnylx dCOlis"
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="col-md-4 col-sm-6"
+      >
+        <div
+          class="sc-gtssRu fuoigp"
+        >
+          <div
+            class="sc-dlnjPT jxzbmt"
+          >
+            <img
+              class=""
+              src="https://images2.imgbox.com/3c/0e/T8iJcSN3_o.png"
+            />
+          </div>
+          <h3
+            class="sc-hKFyIo YcUxI"
+          >
+            FalconSat #1
+          </h3>
+          <b>
+            Launch Year: 
+          </b>
+           
+          2006
+          <br />
+          <b>
+            Successful Launch: 
+          </b>
+           
+          <br />
+          <b>
+            Successful Landing: 
+          </b>
+           
+          data not in api
+          <br />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<MainContent /> Selectors test by mock store with error message 1`] = `
+<div>
+  <div
+    class="sc-bdnylx dCOlis"
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="col-md-4 col-sm-6"
+      >
+        <div
+          class="sc-gtssRu fuoigp"
+        >
+          <div
+            class="sc-dlnjPT jxzbmt"
+          >
+            <img
+              class=""
+              src="https://images2.imgbox.com/3c/0e/T8iJcSN3_o.png"
+            />
+          </div>
+          <h3
+            class="sc-hKFyIo YcUxI"
+          >
+            FalconSat #1
+          </h3>
+          <b>
+            Launch Year: 
+          </b>
+           
+          2006
+          <br />
+          <b>
+            Successful Launch: 
+          </b>
+           
+          <br />
+          <b>
+            Successful Landing: 
+          </b>
+           
+          data not in api
+          <br />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
