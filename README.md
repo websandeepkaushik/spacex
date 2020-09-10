@@ -40,4 +40,4 @@ The bulk of the code is in the `app` directory.
 
 ## Deployed build URL
 
-https://relaxed-euclid-e005c5.netlify.app
+https://affectionate-torvalds-e6b1f8.netlify.app/
