@@ -25,3 +25,19 @@ The bulk of the code is in the `app` directory.
 | src/pages      | components representing entire screens within the app, where integration with redux would happen |
 | src/state      | redux reducers/actions/selectors. Combined in `index.js`                                         |
 | src/sagas      | `redux-saga` sagas, forked from the root saga in `index.js` to run in parallel.                  |
+
+## In this app includes:
+
+- Function components
+- hooks - useEffect, useState, useSelector, useDispatch, etc.
+- Bootstrap for grid management
+- styled-components npm to create custom styles
+- Redux with redux-saga interation
+- apisauce npm for fetch data from api
+- funtionlity for filter action - used location.search feature
+- Unit test cases with fixtures data
+- Deployment with netlify
+
+## Deployed build URL
+
+https://relaxed-euclid-e005c5.netlify.app
