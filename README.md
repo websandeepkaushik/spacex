@@ -32,8 +32,8 @@ The bulk of the code is in the `app` directory.
 - hooks - useEffect, useState, useSelector, useDispatch, etc.
 - Bootstrap for grid management
 - styled-components npm to create custom styles
-- Redux with redux-saga interation
-- apisauce npm for fetch data from api
+- Redux with redux-saga integration
+- apisauce npm for fetch data from API
 - funtionlity for filter action - used location.search feature
 - Unit test cases with fixtures data
 - Deployment with netlify
