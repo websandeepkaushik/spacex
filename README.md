@@ -34,7 +34,7 @@ The bulk of the code is in the `app` directory.
 - styled-components npm to create custom styles
 - Redux with redux-saga integration
 - apisauce npm for fetch data from API
-- funtionlity for filter action - used location.search feature
+- functionality for filter action - used location.search feature
 - Unit test cases with fixtures data
 - Deployment with netlify
 
